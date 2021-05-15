@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KDavis007
 - 👀 I’m interested in videogame development
 - 🌱 I’m currently learning C++ in Unreal Engine.
-- 💞️ I’m looking to collaborate on something in the future when I have something.
-- 📫 How to reach me on here via pm, for now.
+- 💞️ I’m looking to collaborate on-> something(not yet).
+- 📫 How to reach me-> private message(for now).
 - 🎉 Currently figuring things out slowly, I wish for patience in all of us.
 
 <!---
